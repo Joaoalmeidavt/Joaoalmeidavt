@@ -1,4 +1,4 @@
-# Hey, I'm João Almeida
+
 Full Stack Developer
 
 Here are some of the technologies I work with:
