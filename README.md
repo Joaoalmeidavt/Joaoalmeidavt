@@ -10,7 +10,7 @@ Here are some of the technologies I work with:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-##ABOUT ME
+## ABOUT ME
 Hey there! I’m João Almeida, a Full Stack Development Bootcamp student with a passion for turning ideas into functional, user-friendly software. Before diving into sports data analysis at Stats Perform, I spent a year studying Information Technology at university, which sparked my love for coding.
 
 Now, I’m fully committed to the tech world, blending my analytical skills with a creative problem-solving mindset. From sleek front-end designs to efficient back-end solutions, I’m all about building impactful digital experiences and learning something new every day.
