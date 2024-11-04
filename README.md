@@ -11,9 +11,10 @@ Full Stack Developer
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## ABOUT ME💬
-Hey there! I’m João Almeida, a Full Stack Development Bootcamp🎓 student with a passion for turning ideas into functional, user-friendly software. Before diving into sports data analysis at Stats Perform, I spent a year studying Information Technology at university, which sparked my love for coding.
+Hey there! I'm João Almeida, a tech enthusiast whose passion for computers started back in childhood, when I'd spend hours exploring the digital world from my room. It wasn’t just a phase — it shaped who I am today.
 
-Now, I’m fully committed to the tech world, blending my analytical skills with a creative problem-solving mindset. From sleek front-end designs to efficient back-end solutions, I’m all about building impactful digital experiences and learning something new every day.
+I took my first steps into the tech world studying Technology at university, and although life led me in a different direction for a while, my love for code never wavered. I later found myself collecting and analyzing sports data at Stats Perform, where I earned a reputation for precision and timing. (and quoting The Notorious🥊precision and timing beats speed everytime).
 
+Now, I'm embracing my full stack development journey, where I get to combine the analytical mindset I picked up from sports data with a passion for building intuitive, user-friendly software. I thrive on challenges — debugging code might be the closest thing to a real-life escape room, and I’m here for it.
 
 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/joaoalmeida-tech/) | [Email](joao.mp.almeida97@gmail.com)
