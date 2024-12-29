@@ -17,7 +17,7 @@ Hey there! I'm João Almeida, a tech enthusiast whose passion for computers star
 ☎️ Let’s connect if you’re up for discussing the future of technology or collaborating on projects and maybe share a coding pun or two along the way!
 
 📫 **How to reach me**:  
-<a href="https://www.linkedin.com/in/joaoalmeida-tech/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24" height="24" /></a> | <a href="mailto:joao.mp.almeida97@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="24" height="24" /></a>
+<a href="https://www.linkedin.com/in/joaoalmeida-tech/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" /></a> | <a href="mailto:joao.mp.almeida97@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="32" height="32" /></a>
 
 
 
