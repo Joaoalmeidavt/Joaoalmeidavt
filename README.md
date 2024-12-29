@@ -19,3 +19,4 @@ Hey there! I'm João Almeida, a tech enthusiast whose passion for computers star
 📫 **How to reach me**:  
 [![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/joaoalmeida-tech/) | [Email](mailto:joao.mp.almeida97@gmail.com)
 
+
