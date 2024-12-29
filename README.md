@@ -6,10 +6,16 @@ Full Stack Developer
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Icon" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Icon" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Icon" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML Icon" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS Icon" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Icon" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Icon" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL Icon" width="50" height="50"/> </p>
 
 ## ABOUT ME💬
-Hey there! I'm João Almeida, a tech enthusiast whose passion for computers started back in childhood, when I'd spend hours exploring the digital world from my room. It wasn’t just a phase — it shaped who I am today.
+Hey there! I'm João Almeida, a tech enthusiast whose passion for computers started back in childhood. 
 
-I took my first steps into the tech world studying Technology at university, and although life led me in a different direction for a while, my love for code never wavered. I later found myself collecting and analyzing sports data at Stats Perform, where I earned a reputation for precision and timing. (and quoting The Notorious🥊precision and timing beats speed everytime).
+▪ took my first steps into the tech world studying Information Technology and i later found myself collecting and analyzing sports data at Stats Perform, where I earned a reputation for precision and timing. (and quoting The Notorious🥊precision and timing beats speed everytime).
 
-Now, I'm embracing my full stack development journey, where I get to combine the analytical mindset I picked up from sports data with a passion for building intuitive, user-friendly software. I thrive on challenges — debugging code might be the closest thing to a real-life escape room, and I’m here for it.
+▪ Now, I'm embracing my full stack development journey, where I get to combine the analytical mindset I picked up from sports data with a passion for coding. I thrive on challenges — and debugging code might be the closest thing to a real-life escape room.
 
-📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/joaoalmeida-tech/) | [Email](joao.mp.almeida97@gmail.com)
+▪ Outside of coding, I like to keep my adrenaline levels high through sports. Sports and coding have something in common: both come with unexpected challenges, like a surprise bug at 3 AM or a stray soccer ball to the face. 
+
+☎️ Let’s connect if you’re up for discussing the future of technology or collaborating on projects and maybe share a coding pun or two along the way!
+
+📫 **How to reach me**:  
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/joaoalmeida-tech/) | [Email](mailto:joao.mp.almeida97@gmail.com)
+
