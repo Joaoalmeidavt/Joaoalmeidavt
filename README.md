@@ -12,7 +12,7 @@ Hey there! I'm João Almeida, a tech enthusiast whose passion for computers star
 
 ▪ Now, I'm embracing my full stack development journey, where I get to combine the analytical mindset I picked up from sports data with a passion for coding. I thrive on challenges — and debugging code might be the closest thing to a real-life escape room.
 
-▪ Outside of coding, I like to keep my adrenaline levels high through sports. Sports and coding have something in common: both come with unexpected challenges, like a surprise bug at 3 AM or a stray soccer ball to the face. 
+a▪ Outside of coding, I like to keep my adrenaline levels high through sports. Sports and coding have something in common: both come with unexpected challenges, like a surprise bug at 3 AM or a stray soccer ball to the face. 
 
 ☎️ Let’s connect if you’re up for discussing the future of technology or collaborating on projects and maybe share a coding pun or two along the way!
 
