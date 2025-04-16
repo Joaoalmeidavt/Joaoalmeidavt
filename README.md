@@ -13,7 +13,7 @@
 
 ## ABOUT ME💬
 ▪ A tech enthusiast whose passion for computers started back in childhood.  
-
+ 
 ▪ Took my first steps into the tech world studying Information Technology and i later found myself collecting and analyzing sports data at Stats Perform, where I earned a reputation for precision and timing. (and quoting The Notorious🥊precision and timing beats speed everytime).
 
 ▪ Now, I'm embracing my full stack development journey, where I get to combine the analytical mindset I picked up from sports data with a passion for coding. I thrive on challenges — and debugging code might be the closest thing to a real-life escape room.
